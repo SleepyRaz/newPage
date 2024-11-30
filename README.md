@@ -4,10 +4,6 @@
 <h4>📫 Email: <a href="mailto:sleepy@pogatory.com">sleepy@pogatory.com</a></h4>
 <hr/>
 
-<a href="https://pogatory.com">
-    <img alt="lanyard" src="https://lanyard.cnrad.dev/api/321798617776259073?theme=dark&animated=false&hideDiscrim=true&borderRadius=8px&idleMessage=Probably%20doing%20something%20else..."/>
-</a>
-
 
 <h4>🛠️ My Skills Consist Of</h4>
 <ul>
