@@ -14,5 +14,5 @@
     <li>Engines: Unity</li>
     <li>Etc: Visual Studio Code, Cloudflare, OCI, Spigot, Purpur</li>
     <li>Currently Learning: Blender, & Godot</li>
-    <li>Plan on learning: UE4/UE5, C++, and AWS</li>
+    <li>Plan on learning: UE4 & C++</li>
 </ul>
